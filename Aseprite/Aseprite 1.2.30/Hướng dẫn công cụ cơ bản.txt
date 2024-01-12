@@ -1,0 +1,18 @@
+1/ Mở tab review
+	View-->Preview(F7)
+2/Thay đổi kích cỡ Canvas(kích cỡ của nền vẽ)
+	Sprite-->Canvas Size
+3/Thay đổi kích cỡ Sprite(khung điều chỉnh)
+	Sprite-->Sprite Size
+4/Cách sử dụng công cụ đối xứng
+	View-->Symmetry Options
+5/Thay thế toàn bộ màu
+	Edit-->Replace Color
+6/Tự động viền
+	Edit-->FX
+7/Tạo văn bản Pixel
+	Edit-->Insert Text
+8/Xuất File ảnh
+	Flie-->Export
+9/Tạo hoạt ảnh
+	View-->Timeline

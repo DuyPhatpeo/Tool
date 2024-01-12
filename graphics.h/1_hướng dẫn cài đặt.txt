@@ -1,0 +1,23 @@
+Copy:
+6-ConsoleAppGraphics.template
+ConsoleApp_cpp_graph.txt
+Paste:
+C:\Program Files\Dev-Cpp\Templates
+
+Copy:
+graphics.h
+winbgim.h
+Paste:
+C:\Program Files\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include
+
+Copy:
+libbgi.a
+Paste:
+C:\Program Files\Dev-Cpp\MinGW64\x86_64-w64-mingw32\lib
+
+-------------------------------------------------------
+Open DevC - New Project - Console Graphics Application
+
+
+Tools - Compiler Option:
+ TDM-GCC 4.9.2 32bit Release
